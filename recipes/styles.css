@@ -1,0 +1,38 @@
+/* style.css */
+
+h1 {
+    color: hwb(49 20% 6% / 0.878);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-style: italic;
+}
+
+* {
+    background-color: #23231c;
+}
+
+h2 {
+    color:rgb(208, 161, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+  font-weight: bold;
+}
+
+p ,
+h3 {
+    color: rgb(238, 117, 117);
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+ul,
+ol {
+
+    color:beige;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-style: italic;
+}
+
